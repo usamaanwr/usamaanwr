@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="anweru98@gmail.com">
+  <a href="mailto:anweru98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-osama-125213292/">
